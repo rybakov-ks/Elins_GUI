@@ -1,10 +1,12 @@
 # Elins_GUI
 Processing the results of electrochemical measurements after the [Elins potentiostat](https://potentiostat.ru/).
 
-For the script to work, you need to execute the command in the directory with the Elins_GUI.py file::
+For the script to work, you need to execute the command in the directory with the Elins_GUI.py file:
 ```python
 python Elins_GUI.py
 ```
+Then it is necessary to indicate the theoretical capacity of the specific material in mAh/g and the mass of the active component in mg:
+![Alt-текст](https://github.com/rybakov-ks/Elins_GUI/blob/main/images/Elins_GUI.png "Elins_GUI")
 ## Charge-discharge curve
 ![Alt-текст](https://raw.githubusercontent.com/rybakov-ks/Elins_GUI/main/images/LVP2.4_1C_10cycle_el_1.jpg "GS")
 ## Differential capacitance curve
