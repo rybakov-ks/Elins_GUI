@@ -720,7 +720,7 @@ def clicked():
     print(result)
     print("********************************** \n" +
     "Post-processing script for Elins *\n" + 
-    "Version: 2.3 (26.03.2022)        *\n" + 
+    "Version: 2.4 (13.08.2022)        *\n" + 
     "Written by Kirill Rybakov        *\n" + 
     "Contacts: rybakov-ks@ya.ru       *\n" +            
     "**********************************" +
