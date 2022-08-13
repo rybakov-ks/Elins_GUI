@@ -15,4 +15,4 @@ Processing the results of electrochemical measurements after the Elins potentios
 ## Differential capacitance curve
 ![Alt-текст](https://github.com/rybakov-ks/Elins_GUI/blob/main/images/Test%E2%84%962_LVP_Sample1.3.1_el_1_mact_4.08mg_DIFFCAPACITY1.jpg "GITT")
 ## Contributors
-Rybakov Kirill: rybakov-ks@ya.ru
+Rybakov Kirill (Saratov State University): rybakov-ks@ya.ru
