@@ -1,7 +1,5 @@
 # Elins_GUI
-Processing the results of electrochemical measurements after the [Elins potentiostat](https://potentiostat.ru/).
-
-For the script to work, you need to execute the command in the directory with the Elins_GUI.py file:
+To process the results of electrochemical measurements after the [Elins potentiostat](https://potentiostat.ru/), it is necessary to execute the command in the directory with the Elins_GUI.py file:
 ```python
 python Elins_GUI.py
 ```
