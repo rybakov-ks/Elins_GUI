@@ -8,7 +8,7 @@ python Elins_GUI.py
 Then it is necessary to indicate the theoretical capacity of the specific material in mAh/g and the mass of the active component in mg:
 ![Alt-текст](https://github.com/rybakov-ks/Elins_GUI/blob/main/images/Elins_GUI.png "Elins_GUI")
 
-and select a file after the Elins device in the format ".txt" or ".edf"
+and select a file after the Elins device in the format ".txt" or ".edf".
 ## Charge-discharge curve
 ![Alt-текст](https://raw.githubusercontent.com/rybakov-ks/Elins_GUI/main/images/LVP2.4_1C_10cycle_el_1.jpg "GS")
 ## Differential capacitance curve
